@@ -1,0 +1,9 @@
+{
+  "name": "webstrike-official-server",
+  "version": "1.0.0",
+  "description": "Dedicated 24/7 Free-For-All server for WebStrike: Reloaded (no dependencies)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
